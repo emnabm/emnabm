@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there ,I'm Emna👋
 
-<!--
-**emnabm/emnabm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Software Engineering Student** at **ISSATSO**.
+I'm passionate about learning, problem-solving, and building innovative solutions.
 
-Here are some ideas to get you started:
+### 🌟 About Me 
+-🎓**Student:** Software engineering student.
+-👜**Role:** Business & event manager at **Microsoft ISSATSO Club**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+-Python,Java,C,HTML,CSS,JavaScript.
+
+### 🚀 Goals
+-Built and share projects that solve real-world problems.
+-Contribute to open-source communities.
+
+### 📫 Let's Connect
+-📧**Email:** benmahmoudemna57@gmail.com
+-🌐**LinkedIn:** [Emna ben Mahmoud](https://www.linkedin.com/in/emna-benmahmoud/)
