@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** at **ISSATS
 -👜**Role:** Business & event manager at **Microsoft ISSATSO Club**
 
 ### 💻 Skills
--Python,Java,C,HTML,CSS,JavaScript.
+Python,Java,C,HTML,CSS,JavaScript,ReactJS.
 
 ### 🚀 Goals
 -Built and share projects that solve real-world problems.               
